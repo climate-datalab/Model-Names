@@ -19,8 +19,6 @@ Climate modeling centers typically employ a multidisciplinary team of researcher
 
 ## Climate Model Names
 
-When looking for output from climate models, it is important to distinguish between the name of the modeling center which produced the model, and the name of the model itself. The model - meaning the code base describing the physics of the atmosphere, ocean, land, ice, and any other components of the Earth system - will be updated every few years, which is accompanied by a new name each time. Additionally, some modeling centers develop multiple independent models simultaneously; for instance, this is the case at the NOAA Geophysical Fluid Dynamics Laboratory in Princeton, New Jersey, where the GFDL-ESM4 (Earth System Model version 4) and SPEAR (Stochastic Parameterization of Eddy Energetics for Renewables), among other models, are currently being used for active research.
+When looking for output from climate models, it is important to distinguish between the name of the modeling center which produced the model, and the name of the model itself. The model - meaning the code base describing the physics of the atmosphere, ocean, land, ice, and any other components of the Earth system - will be updated every few years, which is accompanied by a new name each time. Additionally, some modeling centers develop multiple independent models simultaneously; for instance, this is the case at the NOAA Geophysical Fluid Dynamics Laboratory in Princeton, New Jersey, where the GFDL-ESM4 (Earth System Model version 4) and SPEAR (Seamless System for Prediction and Earth System Research), among other models, are currently being used for active research.
 
-
-## Simulation Names (Model "Experiments")
 
